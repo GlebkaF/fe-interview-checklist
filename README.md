@@ -52,6 +52,7 @@
 - Мотивация работать в IT
 
 **Требует доработок и превращения в вопросы:**
+Тут тред о том как проводить интервью без кодинга: https://twitter.com/tevko/status/1170084520328126464?s=21
 
 Статья про вопросы к собеседующему: [https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po](https://dev.to/ice_lenor/do-i-want-to-work-in-this-company-or-what-questions-to-ask-on-an-interview-7po)
 
