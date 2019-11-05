@@ -18,6 +18,7 @@
     - JS
         - Задачка про типы
         - lodash/ramda/etc
+        - Нативное js API: add event listener, DOM content loaded
         - Promise
             - Как работают
             - Параллельные запросы в API
